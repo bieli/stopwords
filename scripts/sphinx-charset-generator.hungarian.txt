@@ -1,0 +1,2 @@
+charset_table=a..z,0..9,A..Z->a..z, \
+U+C0->a, U+C1->a, U+C2->a, U+C3->a, U+C7->c, U+C8->e, U+C9->e, U+CA->e, U+CC->i, U+CD->i, U+CE->i, U+D2->o, U+D3->o, U+D4->o, U+D5->o, U+D9->u, U+DA->u, U+DB->u, U+E0->a, U+E1->a, U+E2->a, U+E3->a, U+E7->c, U+E8->e, U+E9->e, U+EA->e, U+EC->i, U+ED->i, U+EE->i, U+F2->o, U+F3->o, U+F4->o, U+F5->o, U+F9->u, U+FA->u, U+FB->u, U+102->a, U+103->a, U+15E->s, U+15F->s, U+162->t, U+163->t
